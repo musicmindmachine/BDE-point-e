@@ -1,0 +1,6 @@
+# BDE-point-e
+Point cloud diffusion for 3D model synthesis
+
+This one outputs GLTFs tho...
+
+Clone in VSCode and run the OPEN_ME notebook for setup...
