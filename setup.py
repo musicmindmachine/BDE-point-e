@@ -23,6 +23,8 @@ setup(
         "numpy",
         "plotly",
         "IProgress",
+        "ipywidgets",
+        "juptyer",
         "clip @ git+https://github.com/openai/CLIP.git",
     ],
     author="OpenAI",
