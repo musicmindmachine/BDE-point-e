@@ -1,10 +1,11 @@
 {
-   "workbench.colorCustomizations": {
-      "[Signed Dark Pro]": {
-         "editorPane.background": "#000000"
-      },
-      "activityBar.background": "#60051C",
-      "titleBar.activeBackground": "#860727",
-      "titleBar.activeForeground": "#FFFBFC"
-   }
+  "workbench.colorCustomizations": {
+    "[Signed Dark Pro]": {
+      "editorPane.background": "#000000"
+    },
+    "activityBar.background": "#60051C",
+    "titleBar.activeBackground": "#860727",
+    "titleBar.activeForeground": "#FFFBFC"
+  },
+  "notebook.output.textLineLimit": 3000
 }
