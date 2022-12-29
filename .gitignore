@@ -3,5 +3,7 @@ __pycache__/
 point_e_model_cache/
 .ipynb_checkpoints/
 .DS_Store
-#intermediates/
-#outputs/
+intermediates/
+outputs/
+*.ply
+*.gltf
