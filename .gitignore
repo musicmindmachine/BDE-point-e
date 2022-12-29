@@ -5,3 +5,4 @@ point_e_model_cache/
 .DS_Store
 *.ply
 *.gltf
+*.glb
