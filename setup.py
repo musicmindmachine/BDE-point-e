@@ -21,6 +21,7 @@ setup(
         "scikit-image",
         "scipy",
         "numpy",
+        "plotly",
         "clip @ git+https://github.com/openai/CLIP.git",
     ],
     author="OpenAI",
